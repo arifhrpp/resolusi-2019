@@ -2,3 +2,4 @@ RESOLUSI
 1.Konsistent untuk belajar koding setiap hari
 2.Konsistent untuk membaca tiap hari paling sedikit 25 hal
 3.Konsistent untuk belajar bahasa inggris setiap hari selama 1 jam
+4.Konsistent untuk belajar Design
